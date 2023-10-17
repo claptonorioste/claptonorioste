@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [KaHero Apps Inc](https://kahero.co/)
 
-- 👨‍💻 All of my projects are available at [Click Here](https://claptonorioste.com/projects)
+- 👨‍💻 All of my projects are available at [Click Here](https://claptonorioste.com/project)
 
 - 📫 How to reach me **clapton.five@gmail.com**
 
