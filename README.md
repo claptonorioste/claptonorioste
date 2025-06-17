@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on [KaHero Apps Inc](https://kahero.co/)
 
-- 👨‍💻 All of my projects are available at [Click Here](https://claptonoriostewebsite.web.app/projects)
+- 👨‍💻 All of my projects are available at [Click Here](https://claptonoriostewebsite.web.app/project)
 
 - 📫 How to reach me **clapton.five@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://claptonorioste.com/resume)
+- 📄 Know about my experiences [Click Here](https://claptonoriostewebsite.web.app/resume)
 </br>
 </br>
 <h3 align="left">Connect with me:</h3>
