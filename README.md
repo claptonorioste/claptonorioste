@@ -4,7 +4,7 @@
 
 <h3 align="center">Passionate in Building Software Solutions</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claptonorioste&column=3&margin-w=15&margin-h=15&theme=onedark" alt="claptonorioste" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claptonorioste&column=2&margin-w=15&margin-h=15&theme=onedark" alt="claptonorioste" /></a> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://streak-stats.demolab.com/?user=claptonorioste&theme=dark" alt="claptonorioste" /></a> </p>
 
